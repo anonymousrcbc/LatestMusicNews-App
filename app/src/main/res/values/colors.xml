@@ -5,4 +5,5 @@
     <color name="headerBGColor">#ba7b4c</color>
     <color name="mainBGColor">#d4c2b4</color>
     <color name="cardBGColor">#e1ba91</color>
+    <color name="authorDateColor">#8B6446</color>
 </resources>
