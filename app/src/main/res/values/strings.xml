@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Calanoc_EX2</string>
-    <string name="app_title">The Latest Music Scene</string>
+    <string name="app_title">THE LATEST MUSIC SCENE</string>
+    <string name="storyTitle1">Harvard, University of Florida Are Latest Schools to Offer Course on Taylor Swift</string>
+    <string name="storyTitle2">‘I feel like I’m going to wake up any minute now’ – Ed Sheeran picks Donegal school for latest album’s music video</string>
+    <string name="buttonText">FULL STORY</string>
+    <string name="storyContent1">
+        Next spring, Ivy League institution Harvard, and the University of Florida will offer courses that focus on Swift, titled “Taylor Swift and Her World” and “Musical Storytelling With Taylor Swift and other Iconic Female Artists,” respectively. The courses come on the heels of a massive year for Swift, who ends the global Eras Tour next December.\n
+        In Harvard&apos;s English department, instructor Stephanie Burt will concentrate on "fan culture, celebrity culture, adolescence, adulthood and appropriation," while also recognizing Swift&apos;s musical precursors like Dolly Parton. "We will move through Swift's own catalogue, including hits, deep cuts, outtakes, re-recordings, considering songwriting as its own art, distinct from poems recited or silently read," the course description states.\n
+        At UF, English faculty instructor Melina Jimenez will lead the (Un)Common course through Swift's "evergreen songwriting, and draw parallels between Swift’s enchanting lyrics and works by other famous female masterminds such as Aretha Franklin, Billie Holiday, and Dolly Parton." Additionally, Cuban music icon Gloria Estefan will also be discussed, and students will get to see the musical On Your Feet!\n
+        Other Swifie courses have popped up in the past few years at institutions like Arizona State University, UC Berkeley, University of Texas, and Stanford University. Last year, the 12-time Grammy Award-winner spoke at New York University's commencent ceremony, whike also earning an honorary doctorate from school.
+    </string>
+
 </resources>
